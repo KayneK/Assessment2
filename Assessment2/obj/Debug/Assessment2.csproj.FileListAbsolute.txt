@@ -5,3 +5,10 @@ C:\Users\Computing\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.cs
 C:\Users\Computing\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.csproj.CoreCompileInputs.cache
 C:\Users\Computing\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.exe
 C:\Users\Computing\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.pdb
+C:\Users\Computing\Desktop\Assessment2\Assessment2\bin\Debug\Assessment2.exe.config
+C:\Users\Computing\Desktop\Assessment2\Assessment2\bin\Debug\Assessment2.exe
+C:\Users\Computing\Desktop\Assessment2\Assessment2\bin\Debug\Assessment2.pdb
+C:\Users\Computing\Desktop\Assessment2\Assessment2\obj\Debug\Assessment2.csproj.AssemblyReference.cache
+C:\Users\Computing\Desktop\Assessment2\Assessment2\obj\Debug\Assessment2.csproj.CoreCompileInputs.cache
+C:\Users\Computing\Desktop\Assessment2\Assessment2\obj\Debug\Assessment2.exe
+C:\Users\Computing\Desktop\Assessment2\Assessment2\obj\Debug\Assessment2.pdb

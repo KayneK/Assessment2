@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Assessment2
 {
-    internal class Game
+    public abstract class Game
     {
+        public virtual void Play()
+        {
+            Console.WriteLine("Game can't be played right now.");
+        }
     }
 }

@@ -8,5 +8,9 @@ namespace Assessment2
 {
     internal class SevensOut : Game
     {
+        public override void Play()
+        {
+            base.Play();
+        }
     }
 }
